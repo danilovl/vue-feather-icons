@@ -1,0 +1,25 @@
+{
+  "name": "danilovl-vue-feather-icons",
+  "version": "0.1.0",
+  "description": "Feather icons component for Vue 3.",
+  "main": "dist/vue-feather-icons.js",
+  "cdn": "dist/vue-feather-icons.min.js",
+  "unpkg": "dist/vue-feather-icons.min.js",
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "icons",
+    "feather",
+    "feather-icons",
+    "vue",
+    "vue3",
+    "vue-component"
+  ],
+  "author": "https://github.com/danilovl",
+  "license": "MIT",
+  "homepage": "https://github.com/danilovl/vue-feather-icons",
+  "devDependencies": {
+    "vue": "^3.3.0"
+  }
+}
