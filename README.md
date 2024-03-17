@@ -13,6 +13,7 @@ Vue feather icons for vue3.
 ### 1. Installation
 
 ```npm
+npm install --save danilovl-vue-feather-icons
 npm install --save https://github.com/danilovl/vue-feather-icons
 ```
 
