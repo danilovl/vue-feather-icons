@@ -2,9 +2,11 @@
 
 ## About ##
 
-Vue feather icons for vue3.
+Vue feather icons for vue3. Icons with names in readme folder.
 
 ![Alt text](/readme/icons.png?raw=true "Icons")
+
+ 
 
 ### Requirements
 
