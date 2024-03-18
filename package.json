@@ -1,6 +1,6 @@
 {
   "name": "danilovl-vue-feather-icons",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Feather icons component for Vue 3.",
   "main": "dist/vue-feather-icons.js",
   "module": "dist/vue-feather-icons.js",
